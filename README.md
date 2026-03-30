@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🛒 Online Product Ordering System Web Application
 
 A Java web application for managing online product browsing, cart operations, and checkout using **Servlets, JSP, JDBC, and MySQL**.
