@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 Online Product Ordering System Web Application
 
 A Java web application for managing online product browsing, cart operations, and checkout using **Servlets, JSP, JDBC, and MySQL**.
@@ -122,3 +123,4 @@ Deploy the generated WAR (`target/ops.war`) to Tomcat 10.
 ## 📄 License
 
 This project is for educational use.
+
