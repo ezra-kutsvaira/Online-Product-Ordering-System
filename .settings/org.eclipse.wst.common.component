@@ -7,7 +7,7 @@
                 
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
                 
-        <property name="java-output-path" value="/OnlineProductOrderingSystem/build/classes"/>
+        <property name="java-output-path" value="/OnlineProductOrderingSystem/target/classes"/>
         <property name="context-root" value="ops"/>
             
     </wb-module>
